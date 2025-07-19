@@ -26,7 +26,7 @@ Each cipher provides options for ciphering, deciphering, and in some cases, brut
 1. Clone the repository:
     ```bash
     git clone https://github.com/karimmarwanw/python-encryption-lab.git
-    cd cipher-tool
+    cd python-encryption-lab
     ```
 
 2. Run the program:
